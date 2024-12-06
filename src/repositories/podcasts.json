@@ -1,0 +1,38 @@
+[
+  {
+    "podcastName": "Flow Podcast",
+    "episode": "MATUÊ - Flow Podcast #264",
+    "videoId": "2wH9Al5ZeOg",
+    "categories": ["Música", "Cultura Pop"]
+  },
+  {
+    "podcastName": "Flow Podcast",
+    "episode": "ESTÚDIOS FLOW - Flow Podcast #500",
+    "videoId": "cmjIGy0r3_c",
+    "categories": ["Negócios", "Empreendedorismo"]
+  },
+  {
+    "podcastName": "Flow Podcast",
+    "episode": "POPÓ - Flow Podcast #544",
+    "videoId": "Cko3pI9ulo4",
+    "categories": ["Esportes", "Biografia"]
+  },
+  {
+    "podcastName": "Inteligência Ltda",
+    "episode": "PASTOR ANTÔNIO JUNIOR - Inteligência Ltda. Podcast #442",
+    "videoId": "ytGST-WInUQ",
+    "categories": ["Religião", "Espiritualidade"]
+  },
+  {
+    "podcastName": "Inteligência Ltda",
+    "episode": "A TECNOLOGIA DOS PRÓXIMOS MIL ANOS - Inteligência Ltda. Podcast #1066",
+    "videoId": "0kSxTIstFM0",
+    "categories": ["Ciência", "Tecnologia"]
+  },
+  {
+    "podcastName": "Inteligência Ltda",
+    "episode": "ARTHUR E ANDRESSA URACH - Inteligência Ltda. Podcast #1086",
+    "videoId": "I3oqEW54A4Y",
+    "categories": ["Famosos", "Cultura Pop"]
+  }
+]
