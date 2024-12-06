@@ -9,10 +9,9 @@ export const repositoryPodcast = async (podcastName?: string): Promise<PodcastMo
 
     const rawData = fs.readFileSync(pathData, language)
     let jsonFile = JSON.parse(rawData);
-    console.log("Podcast Name to Filter:", podcastName);
     if(podcastName){
         jsonFile = jsonFile.filter((podcast: PodcastModel) => podcast.podcastName === podcastName);
     }
-    console.log("Filtered Podcasts:", jsonFile);
+    
     return jsonFile;
 }

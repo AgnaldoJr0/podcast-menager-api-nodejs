@@ -26,7 +26,6 @@ export const getFilterEpisodes = async (
   const url = new URL(request.url || "", `http://${request.headers.host}`);
   const podcastName = url.searchParams.get("v");
 
-  console.log("Podcast Name:", podcastName);
   const content: PodcastTransferModel = await serviceFilterEpisode(podcastName);
 
   response.writeHead(content.statusCode, defaultContent);
